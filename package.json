@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://VladyslavaGoit.github.io/practice-redux/",
+  "homepage": "https://VladyslavaGoit.github.io/practice-async-redux--task-scheduler/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.7",
